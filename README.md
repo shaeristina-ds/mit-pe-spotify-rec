@@ -105,15 +105,11 @@ The notebook demonstrates ranking evaluation with Top-K metrics such as **Precis
 * Dataset citations & known issues (MS Docs sample page) ([Microsoft Learn][6])
 * CF & Spotify context (articles/primers) ([Stratoflow][8])
 
----
-
-Want me to tailor this to exactly what your notebook implements (e.g., the precise algorithms/metrics/outputs it prints) and add a “Results” section with example screenshots?
-
-[1]: https://millionsongdataset.com/tasteprofile/?utm_source=chatgpt.com "The Echo Nest Taste Profile Subset"
-[2]: https://millionsongdataset.com/?utm_source=chatgpt.com "Million Song Dataset: Welcome!"
-[3]: https://www.kaggle.com/c/msdchallenge/data?utm_source=chatgpt.com "Million Song Dataset Challenge"
-[4]: https://www.spotify.com/safetyandprivacy/understanding-recommendations?utm_source=chatgpt.com "safetyandprivacy/understanding-recommendations"
-[5]: https://en.wikipedia.org/wiki/Collaborative_filtering?utm_source=chatgpt.com "Collaborative filtering"
-[6]: https://learn.microsoft.com/en-us/samples/azure-samples/millionsongdataset-sql/millionsongdataset-sql/?utm_source=chatgpt.com "Million Song Dataset in Azure SQL DB / SQL Server"
-[7]: https://www.ee.columbia.edu/~dpwe/pubs/McFeeBEL12-MSDC.pdf?utm_source=chatgpt.com "The million song dataset challenge"
-[8]: https://stratoflow.com/spotify-recommendation-algorithm/?utm_source=chatgpt.com "Spotify Recommendation Algorithm: What's The Secret to ..."
+[1]: https://millionsongdataset.com/tasteprofile/ "The Echo Nest Taste Profile Subset"
+[2]: https://millionsongdataset.com/ "Million Song Dataset: Welcome!"
+[3]: https://www.kaggle.com/c/msdchallenge/data "Million Song Dataset Challenge"
+[4]: https://www.spotify.com/safetyandprivacy/understanding-recommendations "safetyandprivacy/understanding-recommendations"
+[5]: https://en.wikipedia.org/wiki/Collaborative_filtering "Collaborative filtering"
+[6]: https://learn.microsoft.com/en-us/samples/azure-samples/millionsongdataset-sql/millionsongdataset-sql/ "Million Song Dataset in Azure SQL DB / SQL Server"
+[7]: https://www.ee.columbia.edu/~dpwe/pubs/McFeeBEL12-MSDC.pdf "The million song dataset challenge"
+[8]: https://stratoflow.com/spotify-recommendation-algorithm/ "Spotify Recommendation Algorithm: What's The Secret to ..."
